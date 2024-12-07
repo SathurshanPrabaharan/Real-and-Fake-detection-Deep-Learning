@@ -5,9 +5,6 @@ PROPOSED MODELS:
 1. Convolutional Neural Network (CNN) 
 2. Transfer Learning with VGG16 
 
-DATASET:
-
- 
 CONCLUSION: 
 Based on the evaluation of both models, we observe distinct advantages and drawbacks in each. 
 The CNN model demonstrates a validation loss of 0.9330 and a validation accuracy of 49.75%, 
