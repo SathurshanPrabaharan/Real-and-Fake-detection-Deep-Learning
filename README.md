@@ -2,9 +2,10 @@ OBJECTIVE:
 Create a model that classifies the faces into real and fake.
 
 PROPOSED MODELS:
+1. Convolutional Neural Network (CNN)
+2. Transfer Learning with VGG16
 
-Convolutional Neural Network (CNN)
-Transfer Learning with VGG16
+
 CONCLUSION:
 This group project, undertaken as part of the Deep Learning course by Sathurshanth P, Joshua J T, and Paul Tharukshan T, aimed to evaluate the performance of two models.
 
