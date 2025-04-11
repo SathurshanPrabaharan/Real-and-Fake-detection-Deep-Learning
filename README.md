@@ -7,7 +7,7 @@ PROPOSED MODELS:
 
 
 CONCLUSION:
-This group project, undertaken as part of the Deep Learning course by Sajishvar M, Sathurshanth P, Joshua J T, and Paul Tharukshan T, aimed to evaluate the performance of two models.
+This group project, undertaken as part of the Deep Learning course by Sajishvar M, Sathurshan P, Joshua J T, and Paul Tharukshan T, aimed to evaluate the performance of two models.
 
 The CNN model demonstrated a validation loss of 0.9330 and a validation accuracy of 49.75%, whereas the Transfer Learning model achieved a lower validation loss of 0.87555 and a higher validation accuracy of 53.19%. These metrics suggest that the Transfer Learning model, benefiting from pre-trained weights and a larger dataset, generalizes better during validation.
 
